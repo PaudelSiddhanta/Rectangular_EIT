@@ -3,7 +3,8 @@ This repo contains some of the experiments associated with the paper :
 ## The discrete inverse conductivity problem solved by the weights of an interpretable neural network 
  - by Elena Beretta, Maolin Deng, Alberto Gandol, Bangti Jin.
 
-The link to the paper can be found [here](https://doi.org/10.1016/j.jcp.2025.114162).
+## The link to the paper can be found [here](https://doi.org/10.1016/j.jcp.2025.114162).
+## The detailed description of the approach is also described in Summer_work_report.pdf
 
 In these experiments, we demonstrate the solution to Discrete Inverse Conductivity Problem of recovering the conductivity profile on network edges from the discrete
 Dirichlet-to-Neumann map on a square lattice. The novelty of the approach lies in the fact that the
@@ -14,6 +15,8 @@ the weights are typically not interpretable. This work represents a step toward 
 interpretable post-training weights.
 
 ## File Structure and General Description
+
+
 
 This repository consists of code only for the rectangular lattices. 
 
